@@ -1,0 +1,4 @@
+interface tax {
+    int calculate();
+
+}
