@@ -1,4 +1,0 @@
-interface tax {
-    int calculate();
-
-}
